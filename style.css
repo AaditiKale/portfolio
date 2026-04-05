@@ -123,6 +123,15 @@ h2 {
   text-align: center;
 }
 
+.contact a {
+  color: #818cf8;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
 /* Animations */
 @keyframes fadeIn {
   from { opacity: 0; }
